@@ -1,20 +1,10 @@
+ https://daatmidia.github.io/Ch-cara-do-Cris-/
+
+
 # Site Chácara do Cris
 
 Projeto institucional completo para divulgação de espaço de eventos.
 
-## Como abrir localmente
-
-1. Entre na pasta do projeto.
-2. Abra o arquivo `index.html` no navegador.
-
-Opcional com servidor local:
-
-```bash
-cd "Site Chácara do Cris"
-python3 -m http.server 8080
-```
-
-Depois acesse `http://localhost:8080`.
 
 ## Estrutura
 
